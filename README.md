@@ -1,1 +1,1 @@
-# Discover-Template
+# Discover Template
